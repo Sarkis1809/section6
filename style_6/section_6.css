@@ -1,0 +1,313 @@
+/* montserrat-100 - latin */
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 100;
+  src: local("Montserrat Thin"), local("Montserrat-Thin"),
+    url("../fonts/montserrat-v14-latin-100.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/montserrat-v14-latin-100.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-200 - latin */
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 200;
+  src: local("Montserrat ExtraLight"), local("Montserrat-ExtraLight"),
+    url("../fonts/montserrat-v14-latin-200.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/montserrat-v14-latin-200.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-100italic - latin */
+@font-face {
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 100;
+  src: local("Montserrat Thin Italic"), local("Montserrat-ThinItalic"),
+    url("../fonts/montserrat-v14-latin-100italic.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/montserrat-v14-latin-100italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-200italic - latin */
+@font-face {
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 200;
+  src: local("Montserrat ExtraLight Italic"),
+    local("Montserrat-ExtraLightItalic"),
+    url("../fonts/montserrat-v14-latin-200italic.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/montserrat-v14-latin-200italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-300italic - latin */
+@font-face {
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 300;
+  src: local("Montserrat Light Italic"), local("Montserrat-LightItalic"),
+    url("../fonts/montserrat-v14-latin-300italic.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/montserrat-v14-latin-300italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-300 - latin */
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 300;
+  src: local("Montserrat Light"), local("Montserrat-Light"),
+    url("../fonts/montserrat-v14-latin-300.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/montserrat-v14-latin-300.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-regular - latin */
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Montserrat Regular"), local("Montserrat-Regular"),
+    url("../fonts/montserrat-v14-latin-regular.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/montserrat-v14-latin-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-italic - latin */
+@font-face {
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 400;
+  src: local("Montserrat Italic"), local("Montserrat-Italic"),
+    url("../fonts/montserrat-v14-latin-italic.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/montserrat-v14-latin-italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-500italic - latin */
+@font-face {
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 500;
+  src: local("Montserrat Medium Italic"), local("Montserrat-MediumItalic"),
+    url("../fonts/montserrat-v14-latin-500italic.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/montserrat-v14-latin-500italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-500 - latin */
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  src: local("Montserrat Medium"), local("Montserrat-Medium"),
+    url("../fonts/montserrat-v14-latin-500.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/montserrat-v14-latin-500.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-600 - latin */
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  src: local("Montserrat SemiBold"), local("Montserrat-SemiBold"),
+    url("../fonts/montserrat-v14-latin-600.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/montserrat-v14-latin-600.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-600italic - latin */
+@font-face {
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 600;
+  src: local("Montserrat SemiBold Italic"), local("Montserrat-SemiBoldItalic"),
+    url("../fonts/montserrat-v14-latin-600italic.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/montserrat-v14-latin-600italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-700 - latin */
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  src: local("Montserrat Bold"), local("Montserrat-Bold"),
+    url("../fonts/montserrat-v14-latin-700.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/montserrat-v14-latin-700.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-700italic - latin */
+@font-face {
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 700;
+  src: local("Montserrat Bold Italic"), local("Montserrat-BoldItalic"),
+    url("../fonts/montserrat-v14-latin-700italic.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/montserrat-v14-latin-700italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-800 - latin */
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 800;
+  src: local("Montserrat ExtraBold"), local("Montserrat-ExtraBold"),
+    url("../fonts/montserrat-v14-latin-800.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/montserrat-v14-latin-800.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-800italic - latin */
+@font-face {
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 800;
+  src: local("Montserrat ExtraBold Italic"), local("Montserrat-ExtraBoldItalic"),
+    url("../fonts/montserrat-v14-latin-800italic.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/montserrat-v14-latin-800italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-900 - latin */
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 900;
+  src: local("Montserrat Black"), local("Montserrat-Black"),
+    url("../fonts/montserrat-v14-latin-900.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/montserrat-v14-latin-900.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-900italic - latin */
+@font-face {
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 900;
+  src: local("Montserrat Black Italic"), local("Montserrat-BlackItalic"),
+    url("../fonts/montserrat-v14-latin-900italic.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/montserrat-v14-latin-900italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+.container {
+  max-width: 320px;
+  margin: 0 auto;
+}
+.guarantee__title {
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: 63px;
+  color: #111517;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.guarantee__wrapper {
+  max-width: 320px;
+  margin: 0 auto;
+  background-color: #f1f1f1;
+  margin-bottom: 50px;
+}
+.wrapper__list {
+  padding: 0 20px;
+}
+.wrapper__list-item {
+  padding-bottom: 20px;
+  font-size: 11px;
+  letter-spacing: 1px;
+  line-height: 20px;
+  color: #18191d;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  display: flex;
+}
+.wrapper__list-item:nth-child(1) {
+  padding-top: 30px;
+  position: relative;
+}
+.orange {
+  color: #ff6b08;
+  display: contents;
+}
+.transfer {
+  display: contents;
+}
+.wrapper__list-item:nth-of-type(1)::before {
+  content: url(/images/line-mobile.png);
+  position: absolute;
+  top: 45px;
+  left: 5px;
+}
+.fire {
+  height: 18px;
+  width: 13px;
+  margin-right: 20px;
+  z-index: 1;
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 768px;
+  }
+  .guarantee__title {
+    font-size: 26px;
+    margin-bottom: 33px;
+  }
+  .guarantee__wrapper {
+    max-width: 690px;
+    margin-bottom: 70px;
+  }
+  .wrapper__list {
+    padding: 40px 25px 35px 60px;
+  }
+  .wrapper__list-item {
+    padding-bottom: 27px;
+    position: relative;
+  }
+  .wrapper__list-item:last-child {
+    padding-bottom: 0px;
+  }
+  .wrapper__list-item:nth-child(1) {
+    padding-top: 0px;
+  }
+  .wrapper__list-item:nth-of-type(1)::before {
+    content: none;
+  }
+  .wrapper__list-item::before {
+    content: url(/images/line.png);
+    position: absolute;
+    top: -47px;
+    left: 6px;
+  }
+  .fire {
+    margin-right: 23px;
+  }
+}
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1280px;
+  }
+  .guarantee__wrapper {
+    max-width: 1210px;
+    margin-bottom: 100px;
+  }
+  .guarantee__title {
+    font-size: 32px;
+    letter-spacing: 2px;
+    margin-bottom: 44px;
+  }
+  .wrapper__list {
+    padding: 56px 140px 51px 115px;
+  }
+  .wrapper__list-item {
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 29px;
+    padding-bottom: 40px;
+  }
+  .transfer,
+  .orange {
+    display: block;
+  }
+  .fire {
+    height: 27px;
+    width: 20px;
+    margin-right: 38px;
+  }
+  .wrapper__list-item::before {
+    top: -57px;
+    left: 9px;
+  }
+}
